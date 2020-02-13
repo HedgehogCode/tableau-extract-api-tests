@@ -1,1 +1,3 @@
 bin/
+*.log
+hyper_db_*
